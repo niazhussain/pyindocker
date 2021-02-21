@@ -9,3 +9,8 @@ _3_.  Run the command as `docker build -t your_desired_name_for_image .`  for ex
 _4_.  Run the command as `docker run -d -p hostport:5000 your_desired_name_for_image` for example `docker run -d -p 8080:5000 myapp`
 ## Test container/ app
 _5_.  Browse in your favourite browser as `http://localhost:8080/`
+
+
+__You will see in your browser__
+
+   *Hello World!*
